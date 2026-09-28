@@ -1,13 +1,13 @@
 // Leet Code problem 704
 // Binary Search
 
-package LeetCode_Problem_BinarySearch;
+package LeetCode_Problem_Using_BinarySearch;
 
 public class Binary_Search {
     public static void main(String[] args) {
-        int[] arr = {2,3,5,7,9,11};
+        int[] nums = {2,3,5,7,9,11,13};
         int target = 11;
-        int ans = binary_Search(arr,target);
+        int ans = binary_Search(nums,target);
         System.out.println(ans);
     }
     static int binary_Search(int[]arr,int target){
