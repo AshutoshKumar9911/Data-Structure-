@@ -1,3 +1,6 @@
+// Leet code problem number 1662
+// Check if two string arrays are equivalent
+
 package LeetCodeProblemUsingString;
 import java.util.Arrays;
 
